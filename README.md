@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### For Hire
+
 I am a Python/Django Developer currently on the market for a full-time programming position. Since 2020 I have been the President of the DSF (Django Software Foundation) and was previously a Software Engineer at BriteCore. I am based in Harare, Zimbabwe and have been working remotely for a couple of years now but am open to relocation if necessary.
 
 If you already know me and are interested in discussing a job opportunity, [please get in touch](anna@makarudze.com). If you do not know me and are interested in getting to know me a bit, please read on ...
