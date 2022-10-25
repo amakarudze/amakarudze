@@ -9,7 +9,7 @@ Since 2015 I have focused on Python/Django development and have been very active
 I am the lead maintainer of the open source [Django Girls repo](https://github.com/DjangoGirls/djangogirls) where I write code, update documentation, review pull requests, and maintain the server. Recent work includes updating the project from Django 2.0 to 3.2 in stages and improving the layout.
 
 
-- 🔭 I’m currently working on working on a [library_management](https://github.com/amakarudze/library_management) project for fun.
+- 🔭 I’m currently working on a [scripts](https://github.com/amakarudze/scripts) project for automating creating new Django projects using Docker.
 - 🌱 I’m currently learning data structures and algorithms in Python when I am not working on my projects.
 - 😄 Pronouns: she/her.
 
