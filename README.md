@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a freelance Python/Django Developer. Since 2020 I have been the President of the DSF (Django Software Foundation) and was previously a Software Engineer at BriteCore. I am based in Harare, Zimbabwe and have been working remotely for a couple of years now.
+I am a freelance Python/Django Developer. I am a former President of the DSF (Django Software Foundation) and was previously a Software Engineer at BriteCore. I am based in Harare, Zimbabwe and have been working remotely for a couple of years now.
 
 I have over 13 years of experience in the ICT sector and previously held multiple positions in Zimbabwe and globally. I received a BSc (Hons.) in Computer Science from Midlands State University and an MSc in Strategic Management from Chinhoyi University.
 
